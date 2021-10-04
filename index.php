@@ -1,5 +1,5 @@
 <?php
 
-incude_once("djcharra.html");
+include_once("djcharra.html");
 
 ?>
